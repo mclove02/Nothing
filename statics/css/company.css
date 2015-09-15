@@ -126,7 +126,7 @@
     background-image: url(../images/locations-bg.png);
     background-repeat: no-repeat;
     background-position: center center;
-    padding: 40px 0;
+    padding: 50px 0;
     overflow: hidden;
 }
 
@@ -320,14 +320,13 @@
 }
 
 #bye .leanin {
-        width: 204px;
+    width: 204px;
     height: 243px;
     float: right;
     position: absolute;
     /* display: none; */
-    right: 470px;
-    /* top: 0; */
-    top: 2474px;
+    right: 467px;
+    top: 2496px;
 }
 
 
